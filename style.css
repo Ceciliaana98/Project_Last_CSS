@@ -1,0 +1,32 @@
+*{
+    color: darkgray;
+}
+
+/*
+.card_product{
+    color: red;
+}
+.tag_product{
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.wrapper-card{
+    color:green;
+    font-size: 80px;
+}
+    */
+p{
+    color: blue;
+}
+
+li{
+    color: pink !important;
+}
+
+#h3id{
+    color: darkred;
+}
+.wrapper-card{
+    color:yellow;
+}
